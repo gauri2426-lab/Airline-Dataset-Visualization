@@ -12,7 +12,7 @@ This project leverages **Tableau** to analyze an **Airline Dataset** sourced fro
 ## Data Source
 - **Dataset**: `Airline.csv`
 - **Tools Used**: Tableau (for visualization)
-- **Additional Files**: `airline.tblx`, `dashboard1.png`, `dashboard2.png`
+- **Additional Files**: `airline.twlx`, `dashboard1.png`, `dashboard2.png`
 
 ## Dashboards
 
